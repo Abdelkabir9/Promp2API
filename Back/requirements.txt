@@ -1,0 +1,9 @@
+django>=5.0
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+psycopg2-binary  # Pour PostgreSQL
+mysqlclient      # Pour MySQL (optionnel)
+sqlalchemy       # Pour l'introspection des BDD
+requests         # Pour appeler les APIs externes
+python-dotenv
