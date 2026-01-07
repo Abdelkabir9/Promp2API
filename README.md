@@ -40,6 +40,9 @@ Avant de commencer, assurez-vous d'avoir installé :
 * [Git](https://git-scm.com/) (optionnel)
 
 ---
+##  Téléchargement
+1. Déplacer vers votre répertoire souhaité
+2. Taper  git clone https://github.com/Abdelkabir9/Promp2API.git (si vous avez Git)
 
 ##  Installation Rapide (Automatique)
 
@@ -107,3 +110,6 @@ Le frontend sera généralement disponible sur : http://localhost:5173 (ou l'URL
 /Front : Code source de l'interface utilisateur React (Vite/TypeScript).
 
 setup_dev.bat : Script d'automatisation pour Windows.
+
+ ##  Remarque
+J'ai laissé ma base de données Et aussi le repertoire Back/apis  pour voire mes examples
