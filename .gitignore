@@ -1,0 +1,6 @@
+#lib
+include
+lib
+Scripts
+# base de données
+*.sqlite3
