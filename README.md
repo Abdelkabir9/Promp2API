@@ -46,7 +46,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 Si vous êtes sous **Windows**, vous pouvez configurer et lancer l'ensemble du projet en un seul clic grâce au script fourni.
 
 1. Ouvrez le dossier racine du projet.
-2. Double-cliquez sur le fichier `.bat`.
+2. Double-cliquez sur le fichier `You_dont_have_time_to_read_Readme_files_just_double_click_me_hhhhh.bat`.
 3. Le script va :
    * Créer l'environnement virtuel (`venv`).
    * Installer les dépendances Python.
