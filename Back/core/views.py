@@ -176,7 +176,7 @@ class CustomFunctionViewSet(viewsets.ModelViewSet):
         serializer.save(created_by=self.request.user)
         
     @action(detail=True, methods=['get', 'post', 'delete'], url_path='tokens')
-    def tokens(self, request, pk=None):
+    def tokens(self, request, id=None):
         """
         GET: Liste les tokens
         POST: Crée un token
