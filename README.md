@@ -113,3 +113,4 @@ setup_dev.bat : Script d'automatisation pour Windows.
 ```
  ##  Remarque
 J'ai laissé ma base de données Et aussi le repertoire Back/apis  pour voire mes examples
+mais ne travaille pas avec query exist parce que j'ai l'uliser avec ma base de données en locale donc faire les query vous-même
